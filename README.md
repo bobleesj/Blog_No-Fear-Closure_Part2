@@ -1,16 +1,17 @@
-#No Fear Closure Part 2 with Bob#
+#No Fear Closure Part 2 with Bob (Part 2)#
 ![alt text](https://cdn-images-1.medium.com/max/2000/1*E664qfssVqod29D1TUXTAg.png "Cover Image")
 
 ###What you will be learning###
-- [x] Understand of Completion Handlerxs
+- [x] Understand of Completion Handlers
 - [x] Trailing Closures
 - [x] Meaning of @escape
 
-###Introduction###
+###Motivation###
 
-##Why Core Data?##
-Core Data is just a framework like UIKit. It is used to manage data/models. There are a couple of notable built-in features such as *1. change tracking of data, 2. undo and redo to data 3. Filtering 4. Save on to the disk. 5. Partial loading unlike UserDefaults*%
-It is true that there are other frameworks built by non-Apple engineers such as Realm which acts like Core Data and feel free to use that instead. I’m not going to talk about pros and cons in this article. (I also don’t know much of it)
+Motivation
+Well, too many iOS developers (me, basically) simply memorize and copy off from Stack Overflow when we see words like completionhandlers. It often occurs when you try to use animation, fetch data from third party APIs, and so on. Therefore, this tutorial is written for my younger self how to create our own completion handlers and explain what they are, and what’s the heck is going on underneath.
+
+In Part 3, I will explain how to use filter, map, reduce and even implement our own so that we feel like a Swift developer. Please stay tuned! Once you’ve mastered both concepts here in part 2 and 3, you are not ready to jump into using RxSwift and the functional programming paradigm in iOS programming. Possibly Part 4 (150, likes? 🤔)...
 
 ---
 Read More:
