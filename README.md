@@ -1,5 +1,5 @@
 #No Fear Closure Part 2 with Bob#
-
+![alt text](https://cdn-images-1.medium.com/max/2000/1*E664qfssVqod29D1TUXTAg.png "Cover Image")
 ###What you will be learning###
 - [x] Understand of Completion Handlerxs
 - [x] Trailing Closures
