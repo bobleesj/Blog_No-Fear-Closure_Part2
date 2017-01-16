@@ -7,13 +7,11 @@ I fell as if I had lived in the hell for 12 days of not writing and posting on M
 Anyway, let’s learn Closures. In the first lesson, you’ve learned closures and functions are like siblings. They are identical under the hood (DNA) even though they look a bit different. You’ve also learned you can pass closures/functions as arguments/parameters and return them. So far, you’ve laid a great foundation for constructing a solid tower— becoming a functional programmer in Swift, I mean...
 
 
-###This project supports the following browsers###
-- [ ] Understand of Completion Handlerxs
+###What this article talks about###
+- [x] Understand of Completion Handlerxs
 - [x] Trailing Closures
-- [ ] Meaning of @escape
+- [x] Meaning of @escape
 
 ---
-
-
-Read More 
+Read More:
 https://medium.com/ios-geek-community/no-fear-closure-in-swift-3-with-bob-part-2-1d79b8c4021d#.9a88nwy3p
