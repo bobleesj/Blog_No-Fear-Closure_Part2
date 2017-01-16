@@ -1,6 +1,6 @@
 #No Fear Closure Part 2 with Bob#
 
-###What this article talks about###
+###What you will be learning###
 - [x] Understand of Completion Handlerxs
 - [x] Trailing Closures
 - [x] Meaning of @escape
